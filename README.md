@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kavitha</h1>
-<h3 align="center">Master's student in Automotive Software Engineering</h3>
+<h3 align="center">Master's student in Automotive Software Engineering | AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **Python, AI, Machine Learning, Prompt Engineering**
+- 🌱 I’m currently learning **Python, AI, Machine Learning, Prompt Engineering**  
+- 💬 Ask me about **LLMs, AI in Education, and Being a Master's student in Germany**  
+- ⚡ Fun fact: **I work as a bartender on weekends and build AI projects on weekdays ☕🤖**
 
-- 💬 Ask me about **LLMs, AI in Education, and Being a Master's student in Germany**
+---
 
-- ⚡ Fun fact: **I work as a bartender on weekends and build AI dreams on weekdays ☕🤖**
+<h3 align="left">🚀 Active Projects (2025):</h3>
+
+- Prompt Strategy Benchmarking *(LLM evaluation with readability metrics)*  
+- Adaptive Prompt Feedback Loops *(iterative AI workflows)*  
+- Image Captioning with ViT + LLM  
+- Explainable AI for Vision Models *(GradCAM, LIME)*  
+- 3D Point Cloud Classification *(PointNet-lite)*  
 
 ---
 
@@ -18,7 +26,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -37,5 +45,11 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
