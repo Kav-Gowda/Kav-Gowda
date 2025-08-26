@@ -7,13 +7,6 @@
 
 ---
 
-<h3 align="left">🚀 Active Projects (2025):</h3>
-
-- Prompt Strategy Benchmarking *(LLM evaluation with readability metrics)*  
-- Adaptive Prompt Feedback Loops *(iterative AI workflows)*  
-- Image Captioning with ViT + LLM  
-- Explainable AI for Vision Models *(GradCAM, LIME)*  
-- 3D Point Cloud Classification *(PointNet-lite)*  
 
 ---
 
